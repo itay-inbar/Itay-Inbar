@@ -110,7 +110,6 @@ I am passionate about building systems that connect **human intelligence and art
 
 * EEG signal processing and analysis
 * Brain-computer interface (BCI) systems
-* Neurotech applications ([GitHub][1])
 
 ---
 
@@ -153,7 +152,7 @@ This GitHub may include:
 
 ## 🏆 Achievements
 
-* 🥈 2nd place — NASA AI competition (300+ teams) ([GitHub][1])
+* 🥈 2nd place — NASA AI competition (300+ teams)
 * Built AI systems for complex research challenges
 * Developed open-source neurotech tools
 
@@ -181,4 +180,4 @@ I aim to build AI systems that:
 This profile reflects selected work and experiments.
 Most production and research systems are developed within Google DeepMind.
 
-[1]: https://github.com/itayinbarr/?utm_source=chatgpt.com "itayinbarr (Itay Inbar) · GitHub"
+
