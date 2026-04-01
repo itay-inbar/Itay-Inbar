@@ -20,13 +20,6 @@ I am passionate about building systems that connect **human intelligence and art
 
 ---
 
-## ⚠️ GitHub Notice
-
-> This GitHub profile showcases selected projects and experiments.
-> Most of my work at Google DeepMind is conducted in private research environments.
-
----
-
 ## 💼 Experience
 
 ### 🧠 Google DeepMind — AI Software Research Engineer
