@@ -145,7 +145,6 @@ This GitHub may include:
 
 ## 🏆 Achievements
 
-* 🥈 2nd place — NASA AI competition (300+ teams)
 * Built AI systems for complex research challenges
 * Developed open-source neurotech tools
 
@@ -154,7 +153,7 @@ This GitHub may include:
 ## 🌐 Connect with Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/itay-inbar/
-
+* 📧 Email: itay.inbar@gmail.com
 ---
 
 ## 📈 Vision
